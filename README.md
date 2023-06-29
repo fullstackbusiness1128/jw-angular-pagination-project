@@ -1,5 +1,5 @@
-# jw-angular-pagination
+# jw-angular-pagination-project
 
 Angular Pagination Component
 
-Usage instructions available at https://jasonwatmore.com/post/2018/04/26/npm-jw-angular-pagination-component
+A simple lightweight pagination component for Angular 2+ available on npm https://jasonwatmore.com/post/2018/04/26/npm-jw-angular-pagination-component
