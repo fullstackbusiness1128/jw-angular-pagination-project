@@ -2,4 +2,4 @@
 
 Angular Pagination Component
 
-A simple lightweight pagination component for Angular 2+ available on npm https://jasonwatmore.com/post/2018/04/26/npm-jw-angular-pagination-component
+If you know about it in details, please go to https://jasonwatmore.com/post/2018/04/26/npm-jw-angular-pagination-component
